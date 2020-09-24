@@ -4,10 +4,6 @@
 #    ṔowerShell Encode Command
 #
 
-__version__ = '0.1'
-__author__ = 'Michael Ritter'
-
-
 import base64
 import argparse
 
